@@ -1,3 +1,3 @@
-def parrot(defalt = "Squawk!", phrase = "Pretty bird!")
-  
+def parrot("Squawk!", phrase = "Pretty bird!")
+
 end
